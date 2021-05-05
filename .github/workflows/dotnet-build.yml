@@ -37,7 +37,7 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         context: ./DockerHub-GitAction
-        file: ./Dockerfile
+        file: ./DockerHub-GitAction/Dockerfile
         push: true
         tags: ${{ secrets.DOCKER_HUB_USERNAME }}/simplecicd:latest
 

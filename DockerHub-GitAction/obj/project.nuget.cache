@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f6b4eRNch5TrstyvmDEbYZvKsEUJoazf1Hbt9odXuSbbm3vZ3OhAEEGp8umaMLa7uThtYvwYrMCdMbyX/x9OtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\GitActionCICD\\DockerHub-GitAction\\DockerHub-GitAction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
